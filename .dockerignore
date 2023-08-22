@@ -1,6 +1,6 @@
 .github
 .git
 .venv
-docker
+.docker
 .dockerignore
 *.Rmd

@@ -1,6 +1,6 @@
 # ISLP_labs
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intro-stat-learning/ISLP_labs/v2.1)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/intro-stat-learning/ISLP_labs/v2.1.2)
 
 Up-to-date version of labs for ISLP.
 
@@ -11,7 +11,7 @@ intent is that building a conda environment with
 To install the current version of the requirements run
 
 ```bash
-pip install -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.1/requirements.txt;
+pip install -r https://raw.githubusercontent.com/intro-stat-learning/ISLP_labs/v2.1.2/requirements.txt;
 ```
 
 The labs can now be run from this directory:
